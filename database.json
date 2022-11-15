@@ -22,12 +22,7 @@
     "robotGitFile": "DogRobot.xml",
     "robotGit": "https://gist.github.com/f5b82075ea6dcca93f1ea44265497ec5.git"
   },
-  "studio-open-git": {
-    "https://gist.github.com/23b283a99354ad45eeee4b46d0e9aec2.git:BuildBody.groovy": [
-      "https://gist.github.com/23b283a99354ad45eeee4b46d0e9aec2.git",
-      "BuildBody.groovy"
-    ]
-  },
+  "studio-open-git": {},
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "tutorialBranch": "deploy",
