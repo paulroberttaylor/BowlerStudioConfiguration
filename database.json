@@ -6,6 +6,18 @@
     ]
   },
   "studio-open-web": {},
+  "katapult": {
+    "gameControllerNames": [
+      "Play",
+      "Game",
+      "X-Box",
+      "Dragon"
+    ],
+    "linkDeviceName": "dyio",
+    "robotName": "DogRobot",
+    "robotGitFile": "DogRobot.xml",
+    "robotGit": "https://gist.github.com/f5b82075ea6dcca93f1ea44265497ec5.git"
+  },
   "studio-open-git": {},
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
