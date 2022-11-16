@@ -4,6 +4,10 @@
       "Project ",
       "1668507714222"
     ],
+    "https://gist.github.com/9925fd3572b30419c425.git": [
+      "https://gist.github.com/9925fd3572b30419c425.git",
+      "1668624143409"
+    ],
     "https://github.com/paulroberttaylor/wotw.git": [
       "paulroberttaylor/wotw",
       "1668509018682"
@@ -27,9 +31,9 @@
     "robotGit": "https://gist.github.com/f5b82075ea6dcca93f1ea44265497ec5.git"
   },
   "studio-open-git": {
-    "https://github.com/paulroberttaylor/wotw.git:robot.groovy": [
-      "https://github.com/paulroberttaylor/wotw.git",
-      "robot.groovy"
+    "https://gist.github.com/9925fd3572b30419c425.git:KickOff.groovy": [
+      "https://gist.github.com/9925fd3572b30419c425.git",
+      "KickOff.groovy"
     ]
   },
   "BowlerStudioConfigs": {
