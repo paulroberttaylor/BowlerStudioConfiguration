@@ -26,7 +26,12 @@
     "robotGitFile": "DogRobot.xml",
     "robotGit": "https://gist.github.com/f5b82075ea6dcca93f1ea44265497ec5.git"
   },
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://github.com/paulroberttaylor/wotw.git:robot.groovy": [
+      "https://github.com/paulroberttaylor/wotw.git",
+      "robot.groovy"
+    ]
+  },
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "tutorialBranch": "deploy",
